@@ -1,0 +1,9 @@
+body{
+    background-image:linear-gradient(to right, aqua,violet,red);
+}
+
+
+#image{
+    width: 600px;
+    height: 600px;
+}
